@@ -141,3 +141,6 @@ Use these to tie dumpster diving into quests, jobs, or seasonal events (e.g., on
 
 Pull requests and issue reports are welcome!
 
+I fix the bugs other devs gaslight you about.
+A I tools, Five M systems, automation pipelines.
+Build it, break it, resurrect it: 👉 https://AJThe.Dev
